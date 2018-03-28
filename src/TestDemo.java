@@ -9,7 +9,7 @@ public class TestDemo {
 		System.out.println("Bharat");
 		System.out.println("Prashant");
 
-		System.out.println("Partha Prashant");
+		System.out.println("Partha ");
 	}
 
 }
