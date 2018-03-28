@@ -6,9 +6,6 @@ public class TestDemo {
 
 
 		System.out.println("Bharat Bhusan");
-		System.out.println("Bharat Bhusan Tuku");
-
-
 		System.out.println("Bharat");
 		System.out.println("Prashant");
 
